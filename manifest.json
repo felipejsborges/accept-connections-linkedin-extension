@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "name": "Aceitar Conexões | LinkedIn",
+  "version": "1.0",
+  "description": "Aceitar Múltiplas Conexões no LinkedIn",
+  "author": "Felipe Borges",
+  "background": {
+    "persistent": false,
+    "scripts": ["background.js"]
+  },  
+  "browser_action": {
+    "default_title": "Aceitar Conexões | LinkedIn",
+    "default_popup": "index.html",
+    "default_icon": "128.png"
+  },  
+  "permissions": ["activeTab"]
+}
