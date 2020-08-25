@@ -27,8 +27,7 @@ $ git clone https://github.com/felipejsborges/accept-connections-linkedin-extens
 ```
 
 - Open your Chrome Web Browser
-
-- [Go to Extension Management](chrome://extensions)
+[Go to Extension Management](chrome://extensions)
 
 - Toggle to enable Developer mode
 
