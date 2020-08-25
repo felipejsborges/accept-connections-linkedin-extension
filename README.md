@@ -37,6 +37,8 @@ $ git clone https://github.com/felipejsborges/accept-connections-linkedin-extens
 - Select the repository directory
 
 - Load Extension
+
+- Use as shown above
 <hr>
 
 by Felipe Borges<br>
