@@ -1,5 +1,5 @@
 <div align="center">	
-		<img src="/.github/intro.png" alt="connections"/>
+		<img src="/.github/intro.png" alt="connections" width="50%" />
 </div>
 
 <div align="center">
