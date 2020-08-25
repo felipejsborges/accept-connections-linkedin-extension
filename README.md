@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-	<h1>Accept Concections LinkedIn 🔗</h1>
+	<h1>Accept Connections LinkedIn 🔗</h1>
 </div>
 
 ### What is? 🏛️
