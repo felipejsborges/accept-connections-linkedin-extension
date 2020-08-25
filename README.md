@@ -6,7 +6,7 @@
 	<h1>Accept Connections LinkedIn 🔗</h1>
 </div>
 
-### What is? 🏛️
+### What is? 🤔
 A chrome extension to accept multiples LinkedIn connections request.
 <hr>
 
