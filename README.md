@@ -32,7 +32,7 @@ $ git clone https://github.com/felipejsborges/accept-connections-linkedin-extens
 
 - Toggle to enable Developer mode
 
-- Click on Load Unpacked button
+- Click on `Load unpacked` button
 
 - Select the repository directory
 
